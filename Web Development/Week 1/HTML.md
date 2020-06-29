@@ -64,25 +64,25 @@ Task:
  - Create a Repo with the name: Roll_No_WEB_DEV (Eg: 190020043_WEB_DEV) (This will be used for submitting the assignment)
 
  - In the repo created, create a basic HTML page titled ‘About Me’’ which includes:
-   - Your Name
-   - Your Picture
-   - Education
-   - Hobbies
-   - Ambitions
-   - Any other thing you wish to see in your webpage
+   - [X] Your Name
+   - [X] Your Picture
+   - [X] Education
+   - [X] Hobbies
+   - [X] Ambitions
+   - [ ] Any other thing you wish to see in your webpage
    
  - Use at least 6 out of the 11 given tags:
-   - h1-h6 
-   - p
-   - links 
-   - Img/audio/video/gif
-   - lists(ul/ol)
-   - style tags (b, i, center, br,hr etc)
-   - form (text fields, label, button, etc)
-   - div (must give ID/class to div)
-   - semantic tags
-   - table
-   - Comments
+   - [X] h1-h6 
+   - [X] p
+   - [X] links 
+   - [X] Img/audio/video/gif
+   - [X] lists(ul/ol)
+   - [X] style tags (b, i, center, br,hr etc)
+   - [ ] form (text fields, label, button, etc)
+   - [X] div (must give ID/class to div)
+   - [X] semantic tags
+   - [X] table
+   - [X] Comments
    
  - Finally, host the webpage you created on GitHub/BigHome
 
