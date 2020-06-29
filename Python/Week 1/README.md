@@ -88,7 +88,7 @@ The Week 1 content is divided into 2 modules. The first one covers Data Types an
 1. Open on the respective `.ipynb` file on GitHub
 2. In the upper right corner, there are several buttons and icons including the ones shown below. Click on the Raw Button.
        Raw | Blame
-      --- | ---
+       --- | ---
       
 3. The python notebook opens as raw text in browser. Right click->Save as OR just press CTRL + S. Save the notebook, open it using Jupyter Notebook you just installed and start learning! 
 
