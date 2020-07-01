@@ -24,6 +24,7 @@ Checkout the guides below for getting started with writing CSS for your webpage.
  - [CSS - Grundy, WnCC](https://www.wncc-iitb.org/wiki/index.php/CSS)
  - [How To Add CSS](https://www.w3schools.com/css/css_howto.asp)
  - [CSS first steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps) (Navigate to the topics from left sidebar)
+ - [Useful CSS Tips For Beginners](https://www.hongkiat.com/blog/20-useful-css-tips-for-beginners/)
  
  
 ## Unlocking the potential of CSS
@@ -57,7 +58,9 @@ Learning by watching is very useful, specially in CSS because you can see live w
 
 #### Some History
 Everything you browse on the internet is contained in web pages. Those web pages accommodate content and that content needs a layout to fit itself in it. Nowadays, the technology has enabled us to browse the web on any screen dimension we wish for and your content should be responsive to any dimension we put forward. That’s where responsive layout design knocks the door.
+
 CSS has always been used to design the layout and looking of web pages but producing complicated multi-column layouts has always been fiddly and hackish, and frustrating to get working consistently and precisely across browsers as well. First, we used tables, floats, positioning and inline-block, but all of these techniques left out a lot of major functionality (vertical centering, for example).
+
 To solve these layout complications, CSS3 invented proper responsive layout models available natively in the browser, out of which - Flexbox, CSS Grid and Bootstrap became most popular and are widely supported across all platforms & browsers. These not only equipped us to create layouts that previously wasn’t feasible to create without involving JavaScript, but these also make code easier to understand and maintain.
 
 #### More about them
@@ -79,8 +82,10 @@ Task:
  - You have to build a website enriched with HTML and CSS
  - You can either use your website from the previous assignment, and enhance it with CSS, or if you want, you can build a new one from scratch as well
  - The website must include __atleast 6__ out of the 12 properties covered in the ['Unlocking the potential of CSS'](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%202/CSS.md#unlocking-the-potential-of-css) section. You are free to use any other properties as well(apart from __atleast 6__).
- - Lastly, just as you did last week, host the webpage you created on GitHub/BigHome
+ - Lastly, just as you did last week, host the webpage you created on GitHub/BigHome.
+ - It is always recommended to keep your stylesheet saperate from HTML document i.e. prefer not doing inline css.
  - [Link for submission](https://forms.gle/mK5XgQwg2srnDMvx9)
+ - For .css file(as required in form) please give link of external css file that you have made or HTML file if you have use css in <style> tags
  
  
 ## Dive Deep (Optional)
