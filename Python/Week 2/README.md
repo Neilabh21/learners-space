@@ -51,7 +51,7 @@ As you are familiar with Jupyter Notebooks now, in this tutorial, most part of t
 
 A function is a set of statements that take inputs, do some specific computation and produces output. The idea is to put some commonly or repeatedly done task together and make a function, so that instead of writing the same code again and again for different inputs, we can call the function.
 
-This [Notebook](https://github.com/abhipaiangle/learners-space/blob/master/Python/Week%202/Notebook1.ipynb) covers the most aspects of Python Functions. Download the Notebook and make changes to the code and see how they reflect in the output.
+This [Notebook](Notebook1.ipynb) covers the most aspects of Python Functions. Download the Notebook and make changes to the code and see how they reflect in the output.
 
 If you want to read more on functions, you can have a look at [this](https://www.geeksforgeeks.org/functions-in-python/) and [this](https://automatetheboringstuff.com/2e/chapter3/)
 
@@ -65,7 +65,7 @@ Scope refers to the visibility of variables. In other words, which parts of your
 
 The process in which a function calls itself directly or indirectly is called recursion and the corresponding function is called as recursive function. Using recursive algorithm, certain problems can be solved quite easily.
 
-Check this [Notebook](https://github.com/abhipaiangle/learners-space/blob/master/Python/Week%202/Notebook2.ipynb) for learning about Scope and Recursion
+Check this [Notebook](Notebook2.ipynb) for learning about Scope and Recursion
 
 
 
@@ -74,7 +74,7 @@ Great! Now that you have learnt about funtions and scopes in Python, let's move 
 
 # Python Modules and Packages
 
-This [Notebook](https://github.com/abhipaiangle/learners-space/blob/master/Python/Week%202/Notebook3.ipynb) covers most aspects of Python Modules and Packages. You may use Spyder/PyCharm for this but if you are using Google Colab, read the instructions given in the notebook.
+This [Notebook](Notebook3.ipynb) covers most aspects of Python Modules and Packages. You may use Spyder/PyCharm for this but if you are using Google Colab, read the instructions given in the notebook.
 
 To read more about Modules and Packages head over to [this](https://www.geeksforgeeks.org/python-modules/) and [this](https://www.learnpython.org/en/Modules_and_Packages)
 
@@ -105,7 +105,7 @@ Here are some problems for you to practise:
 
 ### Assignment - Week 2
 
-* [Assignment 2](https://github.com/abhipaiangle/learners-space/blob/master/Python/Week%202/Week2_Assignment.ipynb)
+* [Assignment 2](Week2_Assignment.ipynb)
 
 This Assignment contains 4 Questions. With the content provided in the tutorial, we assume you will be able to solve these problems with ease. Good Luck!!
 
@@ -130,16 +130,3 @@ Again, if you are having any difficulties with the course, please reach out to o
 <br>See you in Week 3!
 
 <hr>
-
-
-
-
-
-
-
-
-
-
-
-
-
