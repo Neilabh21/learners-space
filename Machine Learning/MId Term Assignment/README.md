@@ -1,5 +1,5 @@
 # Mid-Term Assignment
-In this assignment, you will put into practice some of the key principles and techniques you have learned in the course upto now. You are free to use any algorithm out of all of those which you have learned in this course,to implement regression models to the datasets. To complete this assignment you have to complete both the problems, to get a detailed description about them, refer below.<br/> <br/>
+In this assignment, you will put into practice some of the key principles and techniques you have learned in the course upto now. You are free to use any algorithm out of all of those which you have learned in this course,to implement regression models to the datasets. **To complete this assignment you have to complete both the problems, to get a detailed description about them, refer below**.<br/> <br/>
 
 ## Problem 1:
 
@@ -8,7 +8,7 @@ We find this as a very good dataset for you to practice your hands on exploring 
 ### Problem Overview
 In 1998, the Adventure Works Cycles company collected a large volume of data about their existing customers, including demographic features and information about purchases they have made. The company is particularly interested in analyzing customer data to determine any apparent relationships between demographic features known about the customers and the likelihood of a customer purchasing a bike. Additionally, the analysis should endeavor to determine whether a customer's average monthly spend with the company can be predicted from known customer characteristics.
 
-In complete this problem, you must tackle three challenges:
+To complete this problem, you must tackle two challenges:
 - Challenge 1: Explore the data and gain some insights into Adventure Works customer characteristics and purchasing behavior.
 - Challenge 2: Build a regression model to predict customer purchasing behavior.
 
@@ -19,7 +19,7 @@ To know about the data, refer to [this](https://github.com/wncc/learners-space/b
 ### Challenge 1: Data Exploration
 
 To complete this challenge:
-1. Download the Adventure Works data files.
+1. Download the Adventure Works data files present inside this folder.
 2. Clean the data by replacing any missing values and removing duplicate rows. In this dataset, each customer is identified by a unique customer ID. The most recent version of a duplicated record should be retained.
 3. Explore the data by calculating summary and descriptive statistics for the features in the dataset, calculating correlations between features, and creating data visualizations to determine apparent relationships in the data.
 4. Based on your analysis of the customer data after removing all duplicate customer records, answer the questions in this [form](https://forms.gle/CJ7cLSZY145yBnmh9).
@@ -32,7 +32,7 @@ To complete this challenge:
 2. Download the test data. This data includes customer features but does not include bike purchasing or average monthly spend values.
 3. Use your model to predict on the corresponding test dataset. Don't forget to apply what you've learned throughout this course upto now.
 4. For every Customer in the dataset, submission files should contain two columns: CustomerID and Prediction1.
-The file should contain a header and have the format given below to [this]((** koi naya gmail count bna le submissions k liye? **) gmail id
+The file should contain a header and have the format given below to:
 
 > CustomerID,Prediction1 <br/>
 > 18988,1 <br/>
@@ -41,10 +41,14 @@ The file should contain a header and have the format given below to [this]((** k
 > 13749,1 <br/>
 > etc. <br/>
 
+For the submission, you will have to provide a github repo link/drive link/google colab notebook to a form we will be releasing soon.
 ## Problem 2:
 
-** Pradipta will add here by tonight **
+This will be added by tomorrow.
 
+***We have made these assignments for you to have a better learning experience, if you get stuck discuss to a moderator about it and refrain from plagiarism. All the best, it's time to get started.***
+
+### Last Date of Submission: July 19, Sunday
 
 
 
